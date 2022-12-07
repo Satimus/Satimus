@@ -2,7 +2,7 @@
 This is my home page! My name is Brandon Tran and I am a student at [Cal State Fullerton](http://www/fullerton.edu/) and my major is Pre-Business
 
 ## Computer Science Projects
-My Github page is http://github.com/Satimus
+My Github page is https://github.com/Satimus
 
 ### CPSC 120 
 
